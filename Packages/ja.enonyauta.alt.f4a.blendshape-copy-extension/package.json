@@ -1,0 +1,14 @@
+{
+  "name": "ja.enonyauta.alt.f4a.blendshape-copy-extension",
+  "displayName": "Blendshape Copy Extension",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Editor extension that adds the ability to copy blendshape values ​​to another Skinned Mesh Renderer.",
+  "author": {
+    "name": "f4a",
+    "url": "https://f4a.booth.pm/"
+  },
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.5"
+  }
+}
